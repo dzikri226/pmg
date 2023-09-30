@@ -7,12 +7,16 @@
 Pertama buka VS Code terlebih dahulu.
 ![gambar-1][def-1]
 
-[def-1]: /image/ss1.png
+[def-1]:  ![Screenshot (13)](https://github.com/dzikri226/pmg/assets/122372727/e95c68b4-d95a-4409-ace2-31da3ba90647)
+
 
 Lalu buatlah file baru dengan nama `lab1_tag_dasar.html` dan buat struktur HTML-nya lalu pada bagian title ganti dengan `Tag HTML Dasar`.
 ![gambar-2][def-2]
 
-[def-2]: /image/ss2.png
+[def-2]:  ![ppp](https://github.com/dzikri226/pmg/assets/122372727/df9bd7b0-b7f1-4b57-b13e-c5605bc112ac)
+
+
+
 
 Nah selanjutnya, buka file yang sudah dibuat tadi pada web browser.
 ![gambar-3][def-3]
