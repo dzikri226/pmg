@@ -13,7 +13,9 @@ Pertama buka VS Code terlebih dahulu.
 Lalu buatlah file baru dengan nama `lab1_tag_dasar.html` dan buat struktur HTML-nya lalu pada bagian title ganti dengan `Tag HTML Dasar`.
 ![gambar-2][def-2]
 
-[def-2]:  ![ppp](https://github.com/dzikri226/pmg/assets/122372727/df9bd7b0-b7f1-4b57-b13e-c5605bc112ac)
+[def-2]: ![Screenshot (16)](https://github.com/dzikri226/pmg/assets/122372727/bd0a7f80-16eb-4c61-bfaf-65cb74b6f3cb)
+
+
 
 
 
@@ -21,43 +23,41 @@ Lalu buatlah file baru dengan nama `lab1_tag_dasar.html` dan buat struktur HTML-
 Nah selanjutnya, buka file yang sudah dibuat tadi pada web browser.
 ![gambar-3][def-3]
 
-[def-3]: /image/ss3.png
+[def-3]: ![Screenshot (17)](https://github.com/dzikri226/pmg/assets/122372727/7d8de5ca-1fd0-4885-9b93-1c3f2ca44e84)
+
 Kenapa halamannya kosong karena didalam file `lab1_tag_dasar.html` hanya ada tag title yang hanya menampilkan judul sebuah halaman.
 
 Selanjutnya membuat judul dan pargraf, dalam membuat judul menggunakan `tag h1 - h6` untuk membuat paragrafnya menggunakan tag `<p>`.
 ![gambar-4][def-4]
 
-[def-4]: /image/ss4.png
+[def-4]: ![Screenshot (19)](https://github.com/dzikri226/pmg/assets/122372727/810e9d67-1791-44df-9926-eecb1b259cc0)
+
 
 Lalu juga bisa mengubah-uabh nilai atributnya pada bagian paragraf dengan menggunakan nilai atribut `(align="right", align="left")`
 ![gambar-5][def-5]
 
-[def-5]: /image/ss5.png
+[def-5]: ![Screenshot (19)](https://github.com/dzikri226/pmg/assets/122372727/b9cca0a3-38e6-4129-86d4-965fcfd41b09)
 
-Selanjutnya juga bisa `memformat teks` pada paragraf dengan tag `<b>`, `<strong>`, `<i>`, `<em>`, `<mark>`, `<small>`, `<del>`, `<ins>`, `<sub>` dan `<sup>`.
-![gambar-6][def-6]
-
-[def-6]: /image/ss6.png
 
 Selanjutnya akan menampilkan gambar pada halaman web, untuk menampilkan gambar/foto pastikan sudah memiliki gambar/foto yang ingin ditampilkan, kemudian buat folder baru yang berada didalam folder `Lab1Web` atau juga bisa simpan file gambar satu folder dengan file dokumen html.
-![gambar-7][def-7]
+![gambar-6][def-6]
 
-[def-7]: /image/ss7.png
+[def-6]: ![Screenshot (21)](https://github.com/dzikri226/pmg/assets/122372727/1f3d09f3-66b2-4216-a537-50d03a43b6a2)
 
-Atau bisa seperti ini.
-![gambar-8][def-8]
 
-[def-8]: /image/ss8.png
 
 Nah selanjutnya menambahkan gambar pada halam web yang sudah di save sebelumnya dengan memanggil gambar menggunakan tag `<img src="logo_UPB.png" title="Logo Universitas Pelita Bangsa">`.
-![gambar-9][def-9]
+![gambar-7][def-7]
 
-[def-9]: /image/ss9.png
+[def-7]: ![screnshoot (33)](https://github.com/dzikri226/pmg/assets/122372727/1e42a38f-9824-4af4-9221-16e056011dde)
+
+
 
 Selanjutnya membuat `Hyperlink` untuk menghubungkan halam satu dengan halaman lain, tambahkan hyperlink sebelum heading 1 seperti berikut dan buat dokumen HTML baru didalam folder Lab1Wb.
-![gambar-10][def-10]
+![gambar-8][def-8]
 
-[def-10]: /image/ss10.png
+[def-8]: ![ (ss10)](https://github.com/dzikri226/pmg/assets/122372727/23a8cb9f-309e-44cc-b0eb-cdfddc4595a8)
+
 
 Halaman ke-2
 ![gambar-11][def-11]
