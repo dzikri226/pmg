@@ -1,7 +1,7 @@
 # Praktikum 1 - Pemograman Web
 # Muhammad Dzikri Hidayat
-### 312210136
-### TI.22.A1
+# 312210136
+# TI.22.A1
 
 ## Langkah Praktikum 
 Pertama buka VS Code terlebih dahulu.
